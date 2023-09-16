@@ -1,0 +1,60 @@
+body {
+    background-color: #f2f6ff;
+}
+h1{
+    padding: 30px;
+}
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+form {
+    background-color: rgb(193, 181, 181);
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+
+
+div input {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+#social-wrap {
+    background-color: #dae3db;
+    padding: 2px;
+}
+
+.inputs {
+    font-Size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+#btn{
+   
+    background-color: #59657c;
+    padding-left:24px ;
+    padding-right: 24px ;
+    padding-top: 12px;
+    padding-right: 12px ;
+    border:  rgb(38, 9, 124);
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
